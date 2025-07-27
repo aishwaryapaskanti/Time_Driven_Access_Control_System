@@ -1,4 +1,3 @@
-# Time_Driven_Access_Control_System
 # Time-Driven-Access-Control-System
 
 __Project Title:__ The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules. 
